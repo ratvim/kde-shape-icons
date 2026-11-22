@@ -1,0 +1,9 @@
+{
+  "theme_name": "KdeShape-Circle",
+  "shape": "circle",
+  "style": "accent_ring",
+  "mode": "light",
+  "accent": "auto",
+  "base_theme": "breeze",
+  "scale": null
+}

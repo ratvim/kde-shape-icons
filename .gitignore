@@ -1,0 +1,11 @@
+# Build output and caches
+build/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and editor files
+*~
+*.swp
+.directory
+.DS_Store
